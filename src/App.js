@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
-
+// import About from './components/About'
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
         <div className="container">
           <TextForm heading= "Enter text to change its Case"/>
         </div>
-        
+        {/* <About/> */}
     </>
   );
 }

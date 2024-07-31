@@ -4,6 +4,36 @@ import './Navbar.css';
 
 
 export default function Navbar(props) {
+
+  // const [myStyle, setMyStyle] = userState({
+  //   color: 'black',
+  //   backgroundColor: 'white'
+  // })
+
+  // const [btnText, setBtnText] = userState("Dark")
+
+  // const toggleMode = () =>{
+  //     if(myStyle.color === "black"){
+  //       setMyStyle({
+  //         color: "white",
+  //         backgroundColor: "black"
+  //       })
+  //       setBtnText("Light")
+  //     }
+  //     else
+  //     {
+  //       if(myStyle.color === "white"){
+  //         setMyStyle({
+  //           color: "black",
+  //           backgroundColor: "white"
+  //         })
+
+  //     }
+  //     setBtnText("Dark")
+
+  // }
+
+
   return (
     <nav className="asdf">
     <div className="container-fluid">

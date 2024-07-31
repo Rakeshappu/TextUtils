@@ -1,0 +1,20 @@
+button{
+    margin: 2px;
+}
+#textArea{
+    font-weight: 600;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-family: math;
+    font-size: larger;
+    font-weight: 600;
+}
+
+#modee{
+    position:fixed;
+    right: 10px;
+    top: 20px;
+}

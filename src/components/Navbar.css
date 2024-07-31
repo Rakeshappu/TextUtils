@@ -8,3 +8,13 @@
     font-family: math;
     font-weight: 900;
 }
+
+#mode{
+    border-radius:250px 250px  250px 250px;
+    color: #000000;
+    position: fixed;
+    right: 10px;
+    top: 10px;    
+    background-color: #6fb4f9;
+    font-size: 25px;
+}
