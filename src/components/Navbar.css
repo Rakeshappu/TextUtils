@@ -18,3 +18,7 @@
     background-color: #6fb4f9;
     font-size: 25px;
 }
+
+.container-fluid span{
+    padding: 10px;
+}
